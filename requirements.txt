@@ -1,0 +1,7 @@
+pandas~=2.0.3
+pymssql==2.2.11
+pyodbc==5.1.0
+requests
+xmltodict
+apache-airflow-providers-odbc==4.4.1
+apache-airflow-providers-microsoft-mssql==3.6.1
